@@ -1,5 +1,6 @@
 function b(){}
-function a(master,exp){
+function a(master){
 master return a;
+
 }
 function c(){}
